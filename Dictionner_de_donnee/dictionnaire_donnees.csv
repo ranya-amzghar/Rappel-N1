@@ -6,9 +6,9 @@ date_publication,Date de publication de l'article,Date,JJ/MM/AAAA,,Oui,Non
 duree_lecture,Durée estimée pour lire l'article,Nombre,Entier,,Oui,Non
 image_article,Image associée à l'article,Texte,Fichier,,Oui,Non
 categorie,Catégorie de l'article,Texte,Texte,100,Oui,Non 
-nom,Nom de l'auteur,Texte,,100,Oui,Non
-prenom,Prenom de l'auteur,Texte,100,Oui,Non
-photo_auteur,Photo de profil de l'auteur,Fichier,,Non,Non
-biobiographie,Parcours de l'auteur,Texte,1000,Non,Non
-email,Adresse email de connexion l'espace administrateur,Texte,255,Oui,Non
-mot_de_passe,Mot de passe de connexion l'espace administrateur,Texte,255,Oui,Non
+nom,Nom de l'auteur,Texte,Texte,100,Oui,Non
+prenom,Prenom de l'auteur,Texte,Texte,100,Oui,Non
+photo_auteur,Photo de profil de l'auteur,Texte,Fichier,,Non,Non
+biographie,Parcours de l'auteur,Texte,Texte,1000,Non,Non
+email,Adresse email de connexion l'espace administrateur,Texte,Email,255,Oui,Non
+mot_de_passe,Mot de passe de connexion l'espace administrateur,Texte,Texte255,Oui,Non
