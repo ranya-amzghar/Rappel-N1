@@ -1,14 +1,16 @@
-Nom,Signification,Type,Format,Taille,Obligatoire,Calculée
-titre_article,Titre de l'article,Texte,Texte,255,Oui,Non
-contenu_article,Contenu de l'article,Texte,Texte,,Oui,Non
-description_article,Description de l'article,Texte,Texte,500,Oui,Non
-date_publication,Date de publication de l'article,Date,JJ/MM/AAAA,,Oui,Non
-duree_lecture,Durée estimée pour lire l'article,Nombre,Entier,,Oui,Non
-image_article,Image associée à l'article,Texte,Fichier,,Oui,Non
-categorie,Catégorie de l'article,Texte,Texte,100,Oui,Non 
-nom,Nom de l'auteur,Texte,Texte,100,Oui,Non
-prenom,Prenom de l'auteur,Texte,Texte,100,Oui,Non
-photo_auteur,Photo de profil de l'auteur,Texte,Fichier,,Non,Non
-biographie,Parcours de l'auteur,Texte,Texte,1000,Non,Non
-email,Adresse email de connexion l'espace administrateur,Texte,Email,255,Oui,Non
-mot_de_passe,Mot de passe de connexion l'espace administrateur,Texte,Texte,255,Oui,Non
+Interface,Nom,Signification,Type,Obligatoire,Calculée
+article,titre_article,Titre de l'article,Texte,Oui,Non
+article,contenu_article,Contenu de l'article,Texte,Oui,Non
+article,description_article,Description de l'article,Texte,Oui,Non
+article,date_publication,Date de publication de l'article,Date,Oui,Non
+article,duree_lecture,Durée estimée pour lire l'article,Entier,Oui,Non
+article,image_article,Image associée à l'article,Texte,Oui,Non
+article,status,Status d'article(publier/brouillon),Texte,Oui,Non
+categorie,categorie_nom,Catégorie de l'article,Texte,Oui,Non 
+categorie,categorie_colour,Coulour de categorie,Texte,Oui,Non
+categorie,categorie_icon,Icon de categorie,Texte,Oui,Non
+user,nom,Nom de l'auteur,Texte,Oui,Non
+user,prenom,Prenom de l'auteur,Texte,Oui,Non
+user,photo_auteur,Photo de profil de l'auteur,Texte,Non,Non
+user,email,Adresse email de connexion l'espace administrateur,Email,Oui,Non
+user,mot_de_passe,Mot de passe de connexion l'espace administrateur,Texte,Oui,Non
