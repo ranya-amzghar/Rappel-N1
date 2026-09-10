@@ -11,4 +11,4 @@ prenom,Prenom de l'auteur,Texte,Texte,100,Oui,Non
 photo_auteur,Photo de profil de l'auteur,Texte,Fichier,,Non,Non
 biographie,Parcours de l'auteur,Texte,Texte,1000,Non,Non
 email,Adresse email de connexion l'espace administrateur,Texte,Email,255,Oui,Non
-mot_de_passe,Mot de passe de connexion l'espace administrateur,Texte,Texte255,Oui,Non
+mot_de_passe,Mot de passe de connexion l'espace administrateur,Texte,Texte,255,Oui,Non
