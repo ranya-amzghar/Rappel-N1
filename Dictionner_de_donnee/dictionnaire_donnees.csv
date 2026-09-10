@@ -9,6 +9,7 @@ article,status,Status d'article(publier/brouillon),Texte,Oui,Non
 categorie,categorie_nom,Nom de Catégorie de l'article,Texte,Oui,Non 
 categorie,categorie_colour,Coulour de categorie,Texte,Oui,Non
 categorie,categorie_icon,Icon de categorie,Texte,Oui,Non
+categorie,categorie_description,description de categorie,Texte,Oui,Non
 user,nom,Nom de l'auteur,Texte,Oui,Non
 user,prenom,Prenom de l'auteur,Texte,Oui,Non
 user,photo_auteur,Photo de profil de l'auteur,Texte,Non,Non
