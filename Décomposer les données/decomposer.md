@@ -1,4 +1,5 @@
 **Observation**
+
 COMMANDE(
     numero_commande,
     date_commande,
@@ -12,6 +13,7 @@ On vois que le nom de client, l'email de client, nom de produit, et le prix de p
 
 
 **Identifier les groupes**
+
 *cherchons de dependances fonctionnelles*
 id_client ->nom_client,email_client
 id_produit ->nom_produit,prix_produit
@@ -27,6 +29,7 @@ prix_produit
 
 
 **Séparer les données**
+
 *Creation de nouvelle relation*
 CLIENT(
     id_client,
@@ -49,6 +52,7 @@ COMMANDE(
 
 
 **Identifier les entités**
+
 *Les entités*
 Commande
 Client
