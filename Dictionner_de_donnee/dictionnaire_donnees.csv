@@ -3,7 +3,7 @@ article,titre_article,Titre de l'article,Texte,Oui,Non
 article,contenu_article,Contenu de l'article,Texte,Oui,Non
 article,description_article,Description de l'article,Texte,Oui,Non
 article,date_publication,Date de publication de l'article,Date,Oui,Non
-article,duree_lecture,Durée estimée pour lire l'article,Entier,Oui,Non
+article,duree_lecture,Durée estimée pour lire l'article,Entier,Oui,Oui
 article,image_article,Image associée à l'article,Texte,Oui,Non
 article,status,Status d'article(publier/brouillon),Texte,Oui,Non
 categorie,categorie_nom,Nom de Catégorie de l'article,Texte,Oui,Non 
