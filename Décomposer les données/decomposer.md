@@ -1,13 +1,21 @@
 **Observation**
 
 COMMANDE(
+
     numero_commande,
+
     date_commande,
+
     nom_client,
+
     email_client,
+
     nom_produit,
+
     prix_produit,
+
     quantite_commandee
+    
 )
 
 On vois que le nom de client, l'email de client, nom de produit, et le prix de produit se repetent.
