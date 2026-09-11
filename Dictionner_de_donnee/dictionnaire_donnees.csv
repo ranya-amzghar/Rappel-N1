@@ -11,7 +11,6 @@ categorie,categorie_colour,Coulour de categorie,Texte,Oui,Non
 categorie,categorie_icon,Icon de categorie,Texte,Oui,Non
 categorie,categorie_description,description de categorie,Texte,Oui,Non
 user,nom,Nom de l'auteur,Texte,Oui,Non
-user,prenom,Prenom de l'auteur,Texte,Oui,Non
 user,photo_auteur,Photo de profil de l'auteur,Texte,Non,Non
 user,email,Adresse email de connexion l'espace administrateur,Email,Oui,Non
 user,mot_de_passe,Mot de passe de connexion l'espace administrateur,Texte,Oui,Non
