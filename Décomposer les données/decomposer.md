@@ -9,6 +9,8 @@ COMMANDE(
     quantite_commandee
 )
 On vois que le nom de client, l'email de client, nom de produit, et le prix de produit se repetent.
+
+
 **Identifier les groupes**
 *cherchons de dependances fonctionnelles*
 id_client ->nom_client,email_client
@@ -22,6 +24,8 @@ GROUPE 2
 id_produit,
 nom_produit,
 prix_produit
+
+
 **Séparer les données**
 *Creation de nouvelle relation*
 CLIENT(
@@ -42,6 +46,8 @@ COMMANDE(
     id_produit,
     quantite_commandee
 )
+
+
 **Identifier les entités**
 *Les entités*
 Commande
