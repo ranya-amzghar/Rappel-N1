@@ -1,5 +1,6 @@
-# Observation #
-
+# Theory
+# Pratique
+**Observation**
 COMMANDE(
 
     numero_commande,
@@ -47,10 +48,9 @@ nom_produit,
 
 prix_produit
 
-
 **Séparer les données**
 
-*Creation de nouvelle relation*
+**Tables**
 
 CLIENT(
 
