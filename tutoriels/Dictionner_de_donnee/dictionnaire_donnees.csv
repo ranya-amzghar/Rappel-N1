@@ -12,9 +12,9 @@ categorie,categorie_nom,Nom de Catégorie de l'article,Texte,Oui,Non
 categorie,categorie_colour,Coulour de categorie,Texte,Oui,Non
 categorie,categorie_icon,Icon de categorie,Texte,Oui,Non
 categorie,categorie_description,description de categorie,Texte,Oui,Non
-user,nom,Nom de l'auteur,Texte,Oui,Non
-user,prenom,Prenom de l'auteur,Texte,Oui,Non
+user,nom_auteur,Nom de l'auteur,Texte,Oui,Non
+user,prenom_auteur,Prenom de l'auteur,Texte,Oui,Non
 user,photo_auteur,Photo de profil de l'auteur,Texte,Non,Non
-user,email,Adresse email de connexion l'espace administrateur,Email,Oui,Non
+user,email_auteur,Adresse email de connexion l'espace administrateur,Email,Oui,Non
 user,mot_de_passe,Mot de passe de connexion l'espace administrateur,Texte,Oui,Non
-admin,nombre_vue_total,nombre de vue total,Entier,,non
+admin,nombre_vue_total,nombre de vue total,Entier,,Oui
