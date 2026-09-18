@@ -20,7 +20,7 @@ for (let i = 0; i < produits.length; i++) {
 }
 console.log("Populaire produits: ",populaires);
 
-for (let i = 0; i < populaires.length - 1; i++) {
+for (let i = 0; i < populaires.length; i++) {
 
     for (let j = i + 1; j < populaires.length; j++) {
 
@@ -62,3 +62,4 @@ for (let i = 0; i < produitsAchetes.length; i++) {
 
 console.log("Nombre :", nombreAchetes);
 console.log("Total :", total, "DH");
+
